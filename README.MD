@@ -1,2 +1,2 @@
 # hello saya sedang belajar menggunakan git
-Hello World repository for Git tutorial
+susah juga ya belajar git dan github
